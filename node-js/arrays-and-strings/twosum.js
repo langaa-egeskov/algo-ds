@@ -13,7 +13,6 @@ function twoSum (nums, target) {
 
 
 
-
 export {twoSum}
 
 const output = twoSum([15, 11, 2, 7, 24, 45], 9).sort((a,b)=> a-b)
